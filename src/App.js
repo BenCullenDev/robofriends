@@ -1,9 +1,9 @@
 import React, {Component} from "react";
-import CardList from './CardList';
-import Searchbox from './Searchbox';
-import Scroll from './Scroll'
-import ErrorBoundry from "./ErrorBoundry";
-import './App.css';
+import CardList from '/CardList';
+import Searchbox from '/Searchbox';
+import Scroll from '/Scroll'
+import ErrorBoundry from "/ErrorBoundry";
+import '/App.css';
 
 
 class App extends Component {
